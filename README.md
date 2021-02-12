@@ -1,6 +1,5 @@
 # Sudoku Puzzle Solver
 
-
 ## The main idea of the project is to build a Sudoku puzzle solver. Solver must comply with all the standard Sudoku puzzle rules.
 
 ### Sudoku Rules: 
