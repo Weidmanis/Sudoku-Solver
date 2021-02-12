@@ -7,9 +7,7 @@
 
     Sudoku puzzle is a 9-by-9 grid of squares, consisting of 9 Rows, 9 Columns and 9 Blocks.
 
-    <img src='https://www.learn-sudoku.com/images/nine_each_filled.gif'>
-
-    image to insert below (https://www.learn-sudoku.com/images/nine_each_filled.gif)
+    
 
     1. Sudoku puzzle only uses numbers 1 to 9
     2. Each Row and Column needs to consists of numbers from 1 to 9 with no duplicate values
@@ -31,4 +29,3 @@ The Solver consists of 3 major functions:
     - webscraping the puzzles, reentering them in the website
     - sudoku.com, etc
   see if there is anything to improve
-
