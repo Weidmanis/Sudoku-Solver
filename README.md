@@ -6,6 +6,9 @@
 ### Sudoku Rules: 
 
     Sudoku puzzle is a 9-by-9 grid of squares, consisting of 9 Rows, 9 Columns and 9 Blocks.
+
+    <img src='https://www.learn-sudoku.com/images/nine_each_filled.gif'>
+
     image to insert below (https://www.learn-sudoku.com/images/nine_each_filled.gif)
 
     1. Sudoku puzzle only uses numbers 1 to 9
